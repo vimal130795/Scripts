@@ -1,4 +1,4 @@
-import os,json
+import os,platform
 files = ['Text_Document.txt','New_Text_Document.txt','New Text Document.txt','New.Text_Document.txt','New Text Document.txt','New.Text_Document.txt']
 for a in files:
     temp = a
